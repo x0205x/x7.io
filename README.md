@@ -4,4 +4,4 @@ This a preview of what I made from [" Typescript, CSS, java"]
 
 
 
-https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy.gif?cid=ecf05e47mwd1ym3g8eh0qg78lsrl9en8y8zc4recwie70ppp&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![image](https://github.com/user-attachments/assets/f16256bb-f2e5-4824-8fd3-08a7e201f826)
